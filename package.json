@@ -1,0 +1,19 @@
+{
+  "name": "permissionmanager",
+  "version": "1.0.0",
+  "description": "Permission Manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alangustavo/permissionManager.git"
+  },
+  "author": "Alan Gustavo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alangustavo/permissionManager/issues"
+  },
+  "homepage": "https://github.com/alangustavo/permissionManager#readme"
+}
